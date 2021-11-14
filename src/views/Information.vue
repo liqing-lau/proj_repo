@@ -1,7 +1,7 @@
 <template>
 <html>
 	<body>
-        <main class="container-fluid" >
+        <main class="container-fluid">
 			<header class="container">
 				<div class="col" id="header_text">
 					<h1>INFORMATION</h1>
@@ -297,7 +297,7 @@ html, body {
 
 main{
 	font-family: mySecondFont;
-	background-image: linear-gradient(to bottom right, #d1cef2, #9cadce,#d4afb9);
+	background-image: linear-gradient(to bottom right, #96baf9, #afc2da,#bda4cd);
 	position: relative;
 	width:100vw;
 	height:100vh;
